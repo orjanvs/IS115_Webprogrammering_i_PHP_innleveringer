@@ -11,14 +11,14 @@ function loadContent(page) {
 
 // Define modules and their oppgaver
 const modules = [
-    {
-        name: 'Modul 1',
+       {
+        name: 'Modul 3',
         tasks: [
-            { name: 'Oppgave 1.1', file: 'oppg1_1.php' },
-            { name: 'Oppgave 1.2', file: 'oppg1_2.php' },
-            { name: 'Oppgave 1.3', file: 'oppg1_3.php' },
-            { name: 'Oppgave 1.4', file: 'oppg1_4.php' },
-            { name: 'Oppgave 1.5', file: 'oppg1_5.php' }
+            { name: 'Oppgave 3.1', file: 'oppg3_1.php' },
+            { name: 'Oppgave 3.2', file: 'oppg3_2.php' },
+            { name: 'Oppgave 3.3', file: 'oppg3_3.php' },
+            { name: 'Oppgave 3.4', file: 'oppg3_4.php' },
+            { name: 'Oppgave 3.5', file: 'oppg3_5.php' }
         ]
     },
     {
@@ -29,6 +29,16 @@ const modules = [
             { name: 'Oppgave 2.3', file: 'oppg2_3.php' },
             { name: 'Oppgave 2.4', file: 'oppg2_4.php' },
             { name: 'Oppgave 2.5', file: 'oppg2_5.php' }
+        ]
+    },
+        {
+        name: 'Modul 1',
+        tasks: [
+            { name: 'Oppgave 1.1', file: 'oppg1_1.php' },
+            { name: 'Oppgave 1.2', file: 'oppg1_2.php' },
+            { name: 'Oppgave 1.3', file: 'oppg1_3.php' },
+            { name: 'Oppgave 1.4', file: 'oppg1_4.php' },
+            { name: 'Oppgave 1.5', file: 'oppg1_5.php' }
         ]
     }
 ];
