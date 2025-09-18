@@ -1,6 +1,6 @@
 <?php 
 // Definerer en verdi for temperatur
-$temp = 15;
+$temp = -6;
 ?>
 
 <!DOCTYPE html>
