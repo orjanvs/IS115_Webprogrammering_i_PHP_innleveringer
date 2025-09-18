@@ -1,1 +1,2 @@
-# IS115_Introduksjon_til_PHP_innleveringer
+# IS115_Webprogrammering_i_PHP_innleveringer
+Denne repoen fungerer som en samlingsplass for alle innleveringer gjennomført i universitetsemnet Webprogrammering i PHP.
